@@ -1,0 +1,13 @@
+{
+  "id": "./",
+  "name": "积木消消乐 · 地图冒险",
+  "short_name": "积木消消乐",
+  "lang": "zh-CN",
+  "start_url": "./",
+  "scope": "./",
+  "display": "fullscreen",
+  "orientation": "portrait",
+  "background_color": "#695c83",
+  "theme_color": "#75668f",
+  "icons": [{ "src": "./icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }]
+}
